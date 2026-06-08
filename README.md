@@ -48,6 +48,20 @@ Este enfoque permitió comprender mejor la configuración real de un entorno de 
 
 ---
 
+## Capturas del sistema
+
+### Login
+![Login](screenshots/login.jpeg)
+
+### Lista de registros
+![Lista](screenshots/lista.jpeg)
+
+### Crear registro
+![Crear](screenshots/crear.jpeg)
+
+### Editar registro
+![Editar](screenshots/editar.jpeg)
+
 ## Autor
 - Nombre: Alexander Perez Herencia
 - Estudiante de Desarrollo de Software
